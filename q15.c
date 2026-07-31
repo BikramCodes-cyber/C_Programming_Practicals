@@ -1,3 +1,10 @@
+/*
+ * File Name: q15.c
+ * Program: Store and Display Different Data Types
+ * Description: Declares variables of different data types (string, integer, float, and character) and displays their values using printf().
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
