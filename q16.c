@@ -1,3 +1,10 @@
+/*
+ * File Name: q16.c
+ * Program: Accept and Display Age
+ * Description: Accepts the user's age as input using scanf() and displays it using printf().
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
