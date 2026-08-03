@@ -1,3 +1,10 @@
+/*
+ * File Name: q21.c
+ * Program: Check Whether a Number is Greater Than 20
+ * Description: Checks if the entered number is greater than 20 using an if-else statement and displays the appropriate message.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main () 
 {
