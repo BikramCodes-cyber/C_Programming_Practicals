@@ -1,3 +1,10 @@
+/*
+ * File Name: q19.c
+ * Program: Accept Initial and Age
+ * Description: Reads a person's initial and age, then displays the entered values.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
