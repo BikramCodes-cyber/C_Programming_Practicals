@@ -1,3 +1,10 @@
+/*
+ * File Name: q20.c
+ * Program: Calculate Total and Average Marks
+ * Description: Reads marks of three subjects, calculates the total and average, and displays the results.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
