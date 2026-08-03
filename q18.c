@@ -1,3 +1,10 @@
+/*
+ * File Name: q18.c
+ * Program: Accept Roll Number and Marks
+ * Description: Reads a student's roll number and marks, then displays the entered values.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
