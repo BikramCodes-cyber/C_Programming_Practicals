@@ -1,3 +1,10 @@
+/*
+ * File Name: q24.c
+ * Program: Speed Checker
+ * Description: This program checks whether the entered vehicle speed is above the speed limit using if-else statements.
+ * Author: Bikram
+ */
+
 #include<stdio.h> 
 int main ()
 {
