@@ -1,3 +1,10 @@
+/*
+ * File Name: q22.c
+ * Program: Largest of Three Numbers
+ * Description: This program finds the largest number among three numbers using if-else-if statements.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
