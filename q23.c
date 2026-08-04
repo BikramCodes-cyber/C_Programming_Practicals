@@ -1,3 +1,10 @@
+/*
+ * File Name: q23.c
+ * Program: VIP Member Check
+ * Description: This program checks whether a customer is an Elite VIP Member, Standard VIP Member, or Not Eligible using nested if statements.
+ * Author: Bikram
+ */
+
 #include<stdio.h>
 int main ()
 {
