@@ -1,3 +1,10 @@
+/*
+ * File Name: q27.c
+ * Program : Area Calculator using Switch Case
+ * Description: Accepts the user's choice and calculates the area of a Square, Rectangle, Circle, or Triangle using the switch-case statement.
+ * Author: Bikram
+ */
+
 #include<stdio.h> 
 int main ()
 {
