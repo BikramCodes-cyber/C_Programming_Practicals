@@ -1,3 +1,10 @@
+/*
+ * File Name: q28.c
+ * Program: Bank Balance Checker
+ * Description: Accepts the user's bank balance and checks whether they are eligible for VIP services.
+ * Author: Bikram
+ */
+
 #include<stdio.h> 
 int main ()
 {
