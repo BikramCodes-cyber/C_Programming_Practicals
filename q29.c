@@ -1,3 +1,10 @@
+/*
+ * File Name: q29.c
+ * Program: Junior Hacker Challenge Eligibility
+ * Description: Accepts the user's age and checks whether they are eligible to participate in the Junior Hacker Challenge.
+ * Author: Bikram
+ */
+
 #include<stdio.h> 
 int main ()
 {
