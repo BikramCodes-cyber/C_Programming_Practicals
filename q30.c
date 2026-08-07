@@ -1,4 +1,11 @@
-#include<stdio.h> 
+/*
+ * File Name: q30.c
+ * Program: Gaming Rank Checker
+ * Description: Accepts the user's gaming score and checks whether the player remains in Bronze Rank or is promoted to Silver Rank.
+ * Author: Bikram
+ */
+
+ #include<stdio.h> 
 int main ()
 {
     int score;
